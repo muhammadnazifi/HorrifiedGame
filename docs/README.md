@@ -7,7 +7,7 @@ HORRIFIED GAME is a **turn-based strategy game** where players take control of *
 ### **Using CMake**
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone <repo-muhammadnazifi/HorrifiedGame>
    cd HorrifiedGame
 
 
