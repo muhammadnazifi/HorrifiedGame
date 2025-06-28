@@ -1,0 +1,37 @@
+HORRIFIED GAME – Final Report
+Advanced Programming – Course 4032 Author: Muhammad Nazifi Halilu Date: June 2025
+
+1️⃣ Overview
+HORRIFIED GAME is a turn-based strategy game where heroes battle monsters and rescue villagers while managing terror levels.
+
+2️⃣ Game Mechanics
+Heroes: Move, guide villagers, attack monsters, collect items.
+
+Monsters: React dynamically, attack as terror level rises.
+
+Game Loop: Alternates between hero actions and monster behavior.
+
+3️⃣ Code Structure
+Encapsulation: Protects data inside classes.
+
+Inheritance: Monsters & heroes share common traits.
+
+Modularity: Independent functions for better maintenance.
+
+4️⃣ Challenges & Fixes
+✅ Debugging memory access errors. ✅ Optimizing monster difficulty balance. ✅ Improving AI-driven monster reactions.
+
+5️⃣ Testing & Validation
+Unit tests: Verify movement, combat, items, game flow.
+
+Performance checks: Optimize loops & memory use.
+
+6️⃣ Future Improvements
+Graphical UI upgrade → Transition from text-based visuals.
+
+Enhanced monster AI → Smarter enemy behavior.
+
+Multiplayer support → Remote player interaction.
+
+7️⃣ Conclusion
+HORRIFIED GAME is successfully built, tested, and optimized following object-oriented principles.
